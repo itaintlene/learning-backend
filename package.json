@@ -1,0 +1,19 @@
+{
+  "name": "learning-backend",
+  "version": "1.0.0",
+  "description": "backend project practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaintlene/learning-backend.git"
+  },
+  "author": "harleen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itaintlene/learning-backend/issues"
+  },
+  "homepage": "https://github.com/itaintlene/learning-backend#readme"
+}
